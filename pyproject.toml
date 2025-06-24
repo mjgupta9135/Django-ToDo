@@ -5,7 +5,7 @@ description = "Default template for PDM package"
 authors = [
     {name = "Mrityunjay", email = "mjguptacse@gmail.com"},
 ]
-dependencies = ["django>=5.2.3", "psycopg2-binary>=2.9.10"]
+dependencies = ["django>=5.2.3", "psycopg2-binary>=2.9.10", "django-bootstrap5>=25.1"]
 requires-python = ">=3.13"
 readme = "README.md"
 license = {text = "MIT"}
